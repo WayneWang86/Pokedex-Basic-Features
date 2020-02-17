@@ -1,7 +1,7 @@
 /*
 * Name: Yifeng Wang
 * Date: November 12, 2018
-* Section: CSE 154 AD
+* Course Project for CSE 154
 * This is the JS to implement the UI for pokedex.html. It will help to fetch
 * images of 151 pokemons and also their related data. This JS gives the user
 * the ability to click a found pokemon(which has color on its image) and to
